@@ -136,5 +136,3 @@ function loadHighScore() {
 }
 // when the DOM loads
 createDivsForColors(shuffledColors);
-
-/* */
